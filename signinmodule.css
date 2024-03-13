@@ -1,0 +1,19 @@
+.signIn1 {
+    position: relative;
+    line-height: 125%;
+    font-weight: 600;
+    z-index: 1;
+  }
+  .forgotPasswordText,
+  .secondaryButton {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .forgotPasswordText {
+    flex: 1;
+    flex-direction: column;
+    padding: 36.40000000000009px 0 
+  }
